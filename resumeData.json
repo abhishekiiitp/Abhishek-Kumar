@@ -1,0 +1,137 @@
+{
+  "main": {
+    "name":"Abhishek Kumar",
+    "occupation":"Student|Web Developer|Comptetive Programmer",
+    "description":"A student by day && a Developer by night",
+    "image":"abhi.jpg",
+    "bio":"A Self-Motivated Computer science engineer with keen interest in coding,comptetive programming and web development.I have build some projects by myself and i am looking for a new role which improve my learning.",
+    "contactmessage":"You can contact me here",
+    "email": "aibiikumar358@gmail.com",
+    "phone": "+91 7007159289",
+    "address":{
+      "street":"Tarya Sujan ",
+      "city":" Kushinagar ",
+      "state":"Uttar Pradesh",
+      "zip": "274409"
+    },
+    "website": "",
+    "resumedownload":"https://drive.google.com/file/d/1az00vWHvJ00Akz_cgYm3TfsWtscKSTGj/view?usp=sharing",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/profile.php?id=100013427592201",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"https://twitter.com",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/abhishek-kumar-051853206",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/_abhishek___.18/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/abhishekiiitp",
+        "className":"fa fa-github"
+      }
+      
+    ]
+  },
+  "resume":{
+    "skillmessage":"I have web-development Experience with HTML5, CSS , JAVASCRIPT ,REACT ",
+    "education":[
+      {
+        "school":"INDIAN INSTITUTE OF INFORMATION TECHNOLOGY PUNE",
+        "degree":"Bachelor of Technology in Computer Science & Engineering",
+        "graduated":"May 2023",
+        "description":"Coursework includes Ds,Algo,OS,Networking and DBMS"
+      },
+      {
+        "school":"Academic Heights Public School Gorakhpur",
+        "degree":"Intermediate",
+        "graduated":"april 2018",
+        "description":"Coursework includes  Mathematics ,Physics and Chemistry.  "
+      }
+    ],
+    
+    "skills":[
+      {
+        "name":"HTML5",
+        "level":"80%"
+      },
+      {
+        "name":"CSS",
+        "level":"70%"
+      },
+      {
+        "name":"JAVASCRIPT",
+        "level":"70%"
+      },
+      {
+        "name":"REACT",
+        "level":"65%"
+      },
+      {
+        "name":"DSA",
+        "level":"70%"
+      },
+      {
+        "name":"GITHUB",
+        "level":" 70%"
+      },
+      {
+        "name":"NODE",
+        "level":"60%"
+      },
+      {
+        "name":"Mongodb",
+        "level":"65%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"IT-Cracker",
+        "category":" A complete MERN stack web application ",
+        "image":"itcracker.PNG",
+        "url":"http://it-cracker.herokuapp.com/"
+      },
+      
+      {
+        "title":"ToDo List App",
+        "category":"App to maintain our day to day tasks or list",
+        "image":"todolist.PNG",
+        "url":"https://github.com/abhishekiiitp/Todo-list-app"
+      },
+      
+      {
+        "title":"ResumeEasy",
+        "category":"A Resume Builder web application",
+        "image":"resumeeasy.png",
+        "url":""
+      }
+      
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Fav-Quote :  I have never tried to hide the fact that it is my intention to become the best ",
+        "user":" Cristiano Ronaldo"
+      },
+      {
+        "text":" I might not be the best of all but i always make sure that i complete my work before going to bed . If i am given an opportunity to work with the Experienced Individuals then i will surely make it count! :) "
+        
+      }
+    ]
+  }
+}
